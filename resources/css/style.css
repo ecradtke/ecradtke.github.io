@@ -1,4 +1,9 @@
 h1{
-    background-image: url(./reources/images/more-leaves.png);
+    background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)),
+    url("../resources/images/more-leaves.png");
+    box-sizing: border-box;
     font-size: 100px;
+    min-height: 200px;
+    padding: 50px;
+    text-align: center;
 }
