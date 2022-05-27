@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/d6d7afcd-8a64-4c25-83aa-736fc64f1b68/microsoft.web/sites/subscriptions/d6d7afcd-8a64-4c25-83aa-736fc64f1b68/resourceGroups/gettingStarted/providers/Microsoft.Web/sites/ericradtke",
+    "appService.deploySubpath": "."
+}
