@@ -8,6 +8,7 @@ h1{
     text-align: center;
 }
 
-img {
-    padding-left:  35%;
+div {
+    display: flex;
+    justify-content: center;
 }
