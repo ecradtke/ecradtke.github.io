@@ -1,6 +1,6 @@
 h1{
-    background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)),
-    url("../resources/images/more-leaves.png");
+    background-image: url("/resources/images/more-leaves.png");
+    background-repeat: repeat;
     box-sizing: border-box;
     font-size: 100px;
     min-height: 200px;
